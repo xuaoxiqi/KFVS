@@ -1,0 +1,16 @@
+/bin/*
+/obj/*
+*.mod
+*.sln
+*.suo
+*.exe
+*.o
+*.save
+*.dat
+*.plt
+*.bin
+*.out
+*.layout
+*.depend
+*.hst
+*.lay
